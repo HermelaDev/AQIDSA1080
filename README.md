@@ -69,4 +69,4 @@ We welcome contributions! Please fork the repository, create a new branch, and s
 This project is licensed under the MIT License. For more details, see the [LICENSE](https://github.com/HermelaDev/Python_class_project/blob/main/LICENSE) file.
 
 ## Contact
-For questions or inquiries, please contact [@HermelaDev](https://github.com/HermelaDev) and [@HarinaChohan](https://github.com/HarinaChohan).
+For questions or inquiries, please contact [@HermelaDev](https://github.com/HermelaDev), [@abogejacob](https://github.com/jacobaboge) and [@HarinaChohan](https://github.com/HarinaChohan).
